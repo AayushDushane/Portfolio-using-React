@@ -1,0 +1,74 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/fe.png",
+      "title": "Front-End Development",
+      "description": "Skilled in building responsive interfaces with React.js, HTML, CSS, and Tailwind CSS, ensuring a seamless user experience."
+    },
+    {
+      "id": "2",
+      "src": "./img/md.png",
+      "title": "Back-End Development",
+      "description": "Experienced in server-side development using Express.js and MongoDB, focusing on creating robust APIs and managing databases."
+    },
+    {
+      "id": "3",
+      "src": "./img/ml.png",
+      "title": "Machine Learning",
+      "description": "Currently learning machine learning concepts and algorithms, with a focus on applying data analysis techniques and problem-solving."
+    },
+    {
+      "id": "4",
+      "src": "./img/ps.png",
+      "title": "Problem Solving",
+      "description": "Adept at tackling complex challenges and finding effective solutions through strong problem-solving skills and analytical thinking."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/studynotion.png",
+      "title": "StudyNotion",
+      "description": "Developed an EdTech platform with MERN stack and Tailwind CSS, featuring user authentication and content management for learning resources.",
+      "link": "https://github.com/AayushDushane"
+    },
+    {
+      "id": "2",
+      "src": "./img/news.png",
+      "title": "News App",
+      "description": "Developed a news application with Text-to-Speech (TTS) functionality for accessibility and integrated an API for fetching and displaying news content.",
+      "link": "https://github.com/AayushDushane/News-Web-App"
+    },
+    {
+      "id": "3",
+      "src": "./img/shoping.png",
+      "title": "Shopping App",
+      "description": "Developed a shopping application where users can add and remove items from the cart, with a summary of the total amount in the cart.",
+      "link": "https://github.com/AayushDushane/Shoping-App-Frontend"
+    }
+  ],
+  "project": [
+    {
+      "id": "5",
+      "src": "./img/blogg.png",
+      "title": "Tech Blogs",
+      "description": "Created a responsive blog website for publishing tech articles with pagination across multiple pages.",
+      "link": "https://github.com/AayushDushane/Tech-Blogs"
+    },
+    {
+      "id": "6",
+      "src": "./img/review.png",
+      "title": "Review Scrapper",
+      "description": "Built a web app to scrape product reviews from websites and display the data.",
+      "link": "https://github.com/AayushDushane/Review_Scrap_AayushDushane"
+    },
+    {
+      "id": "6",
+      "src": "./img/gif.png",
+      "title": "Random GIF Generator",
+      "description": "Created an application that generates random GIFs and allows users to search for specific GIFs.",
+      "link": "https://github.com/AayushDushane/Random-GIF"
+    }
+  ]
+}
