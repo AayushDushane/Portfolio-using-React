@@ -96,7 +96,7 @@ export default function ContactMe() {
                     <SocialIcon url="https://x.com/AayushDushane1" bgColor="black"/>
                 </li>
                 <li>
-                    <SocialIcon url="https://www.instagram.com/aayush.17_/" bgColor="black"/>
+                    <SocialIcon url="https://www.instagram.com/aayushdushanee/" bgColor="black"/>
                 </li>
               
           </ul>
